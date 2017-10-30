@@ -1,0 +1,28 @@
+
+body{
+background-image: url("sai.jpg");
+bakground-size: cover;
+}
+section{
+	text-align: center;
+	 color:blue;
+}
+
+
+.container{
+	text-align: center;
+	color:blue;
+	
+}
+#container1{
+	text-align: center;
+	color:blue;
+}
+#container2{
+	text-align: center;
+	color:blue;
+}
+
+
+	
+
